@@ -8,10 +8,10 @@ for(var i=1 ; i<=10;i++){
 
 
 // menampilkan bilangan genap pake (while)
-let i = 0;
-while (i<=10){
-    i++; 
-    if(i%2==0) {
-        console.log(i);
+let n = 0;
+while (n<=10){
+    n++; 
+    if(n%2==0) {
+        console.log(n);
     }
 }
